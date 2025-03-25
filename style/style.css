@@ -1,0 +1,17 @@
+p{
+    background-color: aquamarine;
+}
+.p_important {
+    background-color: rgb(4, 130, 27);
+}
+
+#p1{
+    background-color: rgb(184, 207, 12);
+}
+
+tr{
+    background-color: rgb(160, 14, 14);
+}
+body {
+    background-color: chartreuse;
+}
